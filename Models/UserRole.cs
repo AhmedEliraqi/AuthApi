@@ -1,0 +1,4 @@
+﻿namespace AuthApi.Models
+{
+   
+}
